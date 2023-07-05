@@ -1,0 +1,8 @@
+{
+  "name": "walk_down",
+  "animation": {
+    "frames": [0, 1, 2, 1],
+    "frame_time": 100,
+    "loop": "True"
+  }
+}
